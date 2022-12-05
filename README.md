@@ -19,7 +19,7 @@ This is where I display my projects not only to keep track of my journey, but al
 - ✨ Fun fact: I have several hobbies and interests including plants 🪴, vinyl toys collection 🧸 and occasionally playing video/mobile games 🎮.
 - 💬 Ask me about: anything! From about me to my hobbies and interests that we may share 🫶🏻
 ## Social: 
-🌍 Reach me at:
+🌍 Reach me at: 
 <a href="https://linkedin.com/in/anh-pham-a47755225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anh-pham-a47755225" height="25" width="24"/></a> ,
 <a href="https://www.leetcode.com/anhvietq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anhvietq" height="25" width="25"/></a> ,
 <a href="https://discord.gg/#4617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#4617" height="25" width="25" /></a>.
