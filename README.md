@@ -17,7 +17,7 @@ This is where I display my projects not only to keep track of my journey, but al
 
 - 🤓 Currently learning: <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="25" height="25"/> </a> Redux
 - ✨ Fun fact: I have several hobbies and interests including plants 🪴, vinyl toys collection 🧸 and occasionally playing video/mobile games 🎮.
-- 💬 Ask me about: anything! From about me to my hobbies and interests that we may share 🫶🏻
+- 💬 Ask me about: anything! From about coding topics, experiences to my hobbies and interests that we may share 🫶🏻
 ## Social: 
 🌍 Reach me at: 
 <a href="https://linkedin.com/in/anh-pham-a47755225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anh-pham-a47755225" height="25" width="24"/></a> ,
